@@ -1,0 +1,55 @@
+﻿#top { position:relative; width: 100%; height:91%;}
+
+#navi-main { position:relative; width: 100%; height:20%;  z-index:-1;}
+
+
+					
+#torch 		{position:relative; background:black; width: 100%; height:100%; margin:-67% 0 0 0; opacity: 0.1;}
+#top-text  	{position:relative; width: 50%; margin:-75% 0 0 10px; z-index:3;  font-size: 80px; color: #FFFFFF; 
+font-family: Edwardian Script ITC; font-weight: bold;}
+	
+		  
+#purpose	{
+			text-align:center;
+			
+
+color:#0033CC; 
+
+ text-shadow: 0px 0px 5px 5px rgba(255, 255, 190, .75);
+} 
+				
+#top-text-img {position:relative; width: 50%; margin:-150px 0 0 100px; z-index:2;}			
+			
+#navi-main { box-shadow: 0 -60px 40px 5px #000000;}		
+			
+			
+
+#navi-main { 
+	position:relative;	
+	display:inline;
+    width: 100%;
+    height:9%;
+    z-index:4;
+    margin:10px 0 0 0px;
+		}
+		
+	
+#navi-main button	{  	
+    				background: radial-gradient(#3D76BE, #06121F); 
+					box-shadow: 0px 0px 10px 5px rgba(255, 255, 190, .75);				
+					font-family:"Copperplate Gothic Bold";
+					font-size:17px;
+					color:#FAFAFA;
+					border-radius: 6px;
+					margin: 0 28px auto;
+					height:70px;
+					width:200px;
+					float:left;
+					
+					
+}
+
+
+#navi-main button::first-letter  { 
+    font-size: 150%;
+    }

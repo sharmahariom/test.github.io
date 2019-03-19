@@ -1,0 +1,200 @@
+﻿#map {position:absolute; margin:-600px 0 0 600px; width:400px;  }
+
+#map-zoom {position:absolute;  margin:-520px 0 0 530px; width:150px; height:200px;}
+
+   
+#touch-text {position:absolute;  margin:-310px 0 0 570px; width:150px; height:25px; font-size: 12px; font-weight:bold; color: #FFFFFF;font-family: "Microsoft Sans Serif";}
+
+#touch-text::first-letter { 
+    font-size: 125%;
+    }
+
+
+#Dist_1_1_Lake {position:absolute; width:450px; height:623px; margin: 0 0 0 0; }
+#Travel_map_1_hammond {position:absolute;  width:20px; height:21px; margin: 40px 0 0 100px;  }
+#Travel_map_2_munster {position:absolute;  width:20px; height:21px; margin: 60px 0 0 105px;  }
+#Travel_map_3_chesterton {position:absolute;  width:20px; height:21px; margin: 45px 0 0 140px;  }
+#Travel_map_4_laporte {position:absolute;  width:20px; height:21px; margin: 45px 0 0 170px;  }
+#Travel_map_5_valparaiso {position:absolute;  width:20px; height:21px; margin: 65px 0 0 160px;  }
+#Travel_map_6_plymouth {position:absolute;  width:20px; height:21px; margin: 80px 0 0 200px;  }
+#Travel_map_7_culver {position:absolute;  width:20px; height:21px; margin: 102px 0 0 200px;  }
+#Travel_map_8_southbend {position:absolute;  width:20px; height:21px; margin: 40px 0 0 230px;  }
+#Travel_map_9_elkhart {position:absolute;  width:20px; height:21px; margin: 50px 0 0 260px;  }
+#Travel_map_10_goshen {position:absolute;  width:20px; height:21px; margin: 70px 0 0 270px;  }
+#Travel_map_11_nappanee {position:absolute;  width:20px; height:21px; margin: 90px 0 0 240px;  }
+#Travel_map_12_syracuse {position:absolute;  width:20px; height:21px; margin: 80px 0 0 300px;  }
+#Travel_map_13_warsaw {position:absolute;  width:20px; height:21px; margin: 100px 0 0 290px;  }
+#Travel_map_14_lagrange {position:absolute;  width:20px; height:21px; margin: 30px 0 0 330px;  }
+#Travel_map_15_waterloo {position:absolute;  width:20px; height:21px; margin: 80px 0 0 370px;  }
+#Travel_map_16_fortwayne {position:absolute;  width:20px; height:21px; margin: 120px 0 0 360px;  }
+#Travel_map_17_monticello {position:absolute;  width:20px; height:21px; margin: 170px 0 0 190px;  }
+#Travel_map_18_logansport {position:absolute;  width:20px; height:21px; margin: 170px 0 0 230px;  }
+#Travel_map_19_oxford {position:absolute;  width:20px; height:21px; margin: 210px 0 0 120px;  }
+#Travel_map_20_delphi {position:absolute;  width:20px; height:21px; margin: 200px 0 0 200px;  }
+#Travel_map_21_westlafayette {position:absolute;  width:20px; height:21px; margin: 230px 0 0 150px;  }
+#Travel_map_22_lafayette {position:absolute;  width:20px; height:21px; margin: 230px 0 0 170px;  }
+#Travel_map_23_marion {position:absolute;  width:20px; height:21px; margin: 200px 0 0 290px;  }
+#Travel_map_24_upland {position:absolute;  width:20px; height:21px; margin: 220px 0 0 320px;  }
+#Travel_map_25_1_muncie {position:absolute;  width:20px; height:21px; margin:240px 0 0 320px;  }
+#Travel_map_25_anderson {position:absolute;  width:20px; height:21px; margin: 250px 0 0 290px;  }
+#Travel_map_26_richmond {position:absolute;  width:20px; height:21px; margin: 270px 0 0 380px;  }
+#Travel_map_27_attica {position:absolute;  width:20px; height:21px; margin: 260px 0 0 140px;  }
+#Travel_map_28_crawfordsville {position:absolute;  width:20px; height:21px; margin: 270px 0 0 160px;  }
+#Travel_map_29_zionsville {position:absolute;  width:20px; height:21px; margin: 280px 0 0 210px;  }
+#Travel_map_30_carmel {position:absolute;  width:20px; height:21px; margin: 280px 0 0 230px;  }
+#Travel_map_31_fishers {position:absolute;  width:20px; height:21px; margin: 280px 0 0 245px;  }
+#Travel_map_32_brownsburg {position:absolute;  width:20px; height:21px; margin: 300px 0 0 210px;  }
+#Travel_map_33_indianapolis {position:absolute;  width:20px; height:21px; margin:300px 0 0 230px;  }
+#Travel_map_34_rushville {position:absolute;  width:20px; height:21px; margin: 310px 0 0 300px;  }
+#Travel_map_35_plainfield {position:absolute;  width:20px; height:21px; margin: 320px 0 0 210px;  }
+#Travel_map_36_greenwood {position:absolute;  width:20px; height:21px; margin: 320px 0 0 235px;  }
+#Travel_map_37_shelbyville {position:absolute;  width:20px; height:21px; margin: 330px 0 0 260px;  }
+#Travel_map_38_franklin {position:absolute;  width:20px; height:21px; margin: 340px 0 0 235px;  }
+#Travel_map_39_stmary {position:absolute;  width:20px; height:21px; margin: 330px 0 0 100px;  }
+#Travel_map_40_terrehaute {position:absolute;  width:20px; height:21px; margin: 330px 0 0 115px;  }
+#Travel_map_41_greencastle {position:absolute;  width:20px; height:21px; margin: 310px 0 0 160px;  }
+#Travel_map_42_martinsville {position:absolute;  width:20px; height:21px; margin: 350px 0 0 200px;  }
+#Travel_map_43_sullivan {position:absolute;  width:20px; height:21px; margin: 400px 0 0 100px;  }
+#Travel_map_44_bloomington {position:absolute;  width:20px; height:21px; margin: 400px 0 0 170px;  }
+#Travel_map_45_nashville {position:absolute;  width:20px; height:21px; margin: 380px 0 0 205px;  }
+#Travel_map_46_columbus {position:absolute;  width:20px; height:21px; margin: 380px 0 0 240px;  }
+#Travel_map_47_oldenburg {position:absolute;  width:20px; height:21px; margin: 340px 0 0 350px;  }
+#Travel_map_48_stleon {position:absolute;  width:20px; height:21px; margin: 365px 0 0 365px;  }
+#Travel_map_49_aurora {position:absolute;  width:20px; height:21px; margin: 390px 0 0 380px;  }
+#Travel_map_50_vincennes {position:absolute;  width:20px; height:21px; margin: 480px 0 0 80px;  }
+#Travel_map_51_princeton {position:absolute;  width:20px; height:21px; margin: 500px 0 0 100px;  }
+#Travel_map_52_jasper {position:absolute;  width:20px; height:21px; margin: 500px 0 0 150px;  }
+#Travel_map_53_frenchlick {position:absolute;  width:20px; height:21px; margin:  480px 0 0 175px;  }
+#Travel_map_54_mitchell {position:absolute;  width:20px; height:21px; margin: 452px 0 0 190px;  }
+#Travel_map_55_orleans {position:absolute;  width:20px; height:21px; margin: 455px 0 0 210px;  }
+#Travel_map_56_paoli {position:absolute;  width:20px; height:21px; margin: 475px 0 0 200px;  }
+#Travel_map_57_english {position:absolute;  width:20px; height:21px; margin: 510px 0 0 220px;  }
+#Travel_map_58_ramsey {position:absolute;  width:20px; height:21px; margin: 495px 0 0 230px;  }
+#Travel_map_59_corydon {position:absolute;  width:20px; height:21px; margin: 520px 0 0 240px;  }
+#Travel_map_60_floydsknobs {position:absolute;  width:20px; height:21px; margin: 500px 0 0 255px;  }
+#Travel_map_61_newalbany {position:absolute;  width:20px; height:21px; margin: 520px 0 0 265px;  }
+#Travel_map_62_northvernon {position:absolute;  width:20px; height:21px; margin: 440px 0 0 260px;  }
+#Travel_map_63_scottsburg {position:absolute;  width:20px; height:21px; margin: 465px 0 0 260px;  }
+#Travel_map_64_sellersburg {position:absolute;  width:20px; height:21px; margin: 485px 0 0 270px;  }
+#Travel_map_65_jeffersonville {position:absolute;  width:20px; height:21px; margin: 485px 0 0 285px;  }
+#Travel_map_66_clarksville {position:absolute;  width:20px; height:21px; margin: 505px 0 0 285px;  }
+#Travel_map_67_hanover {position:absolute;  width:20px; height:21px; margin: 470px 0 0 305px;  }
+#Travel_map_68_madison {position:absolute;  width:20px; height:21px; margin: 450px 0 0 310px;  }
+#Travel_map_69_vevay {position:absolute;  width:20px; height:21px; margin: 445px 0 0 350px;  }
+#Travel_map_70_evansville {position:absolute;  width:20px; height:21px; margin: 555px 0 0 110px;  }
+#Travel_map_71_boonville {position:absolute;  width:20px; height:21px; margin: 550px 0 0 140px;  }
+#Travel_map_72_tellcity {position:absolute;  width:20px; height:21px; margin: 540px 0 0 195px;  }
+
+
+
+
+
+
+
+
+
+#Dist_1_2_Porter {position:absolute; width:32px; height:68px; margin: 7px 0 0 28px;}
+#Dist_1_3_laporte {position:absolute; width:44px; height:68px; margin: 0 0 0 55.5px;}
+#Dist_1_4_stjoseph {position:absolute; width:52px; height:44px; margin: 0 0 0 91px;}
+#Dist_1_5_elkhart {position:absolute; width:41px; height:44px; margin: 0 0 0 138px;}
+#Dist_1_6_lagrange {position:absolute; width:44px; height:32px; margin: 0 0 0 174px;}
+#Dist_1_7_steuben  {position:absolute; width:40px; height:32px; margin: 0 0 0 214px;}
+#Dist_1_8_starke  {position:absolute; width:48px; height:36px; margin: 39px 0 0 55px;}
+#Dist_1_9_marshall  {position:absolute; width:44px; height:40px; margin: 35px 0 0 98px;}
+#Dist_1_10_kosciusko  {position:absolute; width:40px; height:57px; margin: 35px 0 0 138px;}
+#Dist_1_11_noble  {position:absolute; width:45px; height:38px; margin: 27px 0 0 174px;}
+#Dist_1_12_dekalb  {position:absolute; width:40px; height:38px; margin: 27px 0 0 214px;}
+#Dist_1_13_newton  {position:absolute; width:25px; height:58px; margin: 70px 0 0 0;}
+#Dist_1_14_jasper  {position:absolute; width:39px; height:66px; margin: 62px 0 0 21px;}
+#Dist_1_15_pulaski  {position:absolute; width:47px; height:36px; margin: 71px 0 0 55.5px;}
+#Dist_1_16_fulton  {position:absolute; width:54px; height:36px; margin: 70.5px 0 0 98px;}
+#Dist_1_17_whitley  {position:absolute; width:38px; height:39px; margin: 57px 0 0 171.5px;}
+#Dist_1_18_allen  {position:absolute; width:53px; height:46px; margin: 58.5px 0 0 202px;}
+#Dist_1_19_benton {position:absolute; width:44px; height:37px; margin: 124px 0 0 0;}
+#Dist_1_20_warren {position:absolute; width:44px; height:45px; margin: 156.5px 0 0 0;}
+
+
+#Dist_2_1_white {position:absolute; width:55px; height:48px; margin: 102px 0 0 39px;}
+#Dist_2_2_tippecanoe {position:absolute; width:42px; height:44px; margin: 145.5px 0 0 40px;}
+#Dist_2_3_cass {position:absolute; width:42.5px; height:48px; margin: 102px 0 0 89px;}
+#Dist_2_4_carroll {position:absolute; width:42.5px; height:40px; margin:124px 0 0 69.5px;}
+#Dist_2_5_clinton {position:absolute; width:47.5px; height:35px; margin: 159.5px 0 0 77.5px;}
+#Dist_2_6_miami {position:absolute; width:35px; height:58px; margin: 92px 0 0 126px;}
+#Dist_2_7_howard {position:absolute; width:54px; height:27px; margin: 145px 0 0 106px;}
+#Dist_2_8_tipton {position:absolute; width:40px; height:28px; margin: 160px 0 0 120px;}
+#Dist_2_9_hamilton {position:absolute; width:40px; height:42px; margin: 182px 0 0 120px;}
+#Dist_2_10_marion {position:absolute; width:40px; height:42px; margin: 219px 0 0 113px;}
+#Dist_2_11_wabash {position:absolute; width:34px; height:55px; margin: 85.5px 0 0 147.5px;}
+#Dist_2_12_grant {position:absolute; width:41px; height:36px; margin: 135px 0 0 156px;}
+#Dist_2_13_madison {position:absolute; width:31px; height:57px; margin: 167px 0 0 156px;}
+#Dist_2_14_huntington {position:absolute; width:36px; height:49px; margin: 91.5px 0 0 172px;}
+#Dist_2_15_wells {position:absolute; width:39px; height:47px; margin: 100px 0 0 193px;}
+#Dist_2_16_blackford {position:absolute; width:29px; height:28px; margin: 143px 0 0 193px;;}
+#Dist_2_17_delaware {position:absolute; width:40px; height:43px; margin: 167px 0 0 183px;}
+#Dist_2_18_adams {position:absolute; width:29px; height:47px; margin: 100px 0 0 227px;}
+#Dist_2_19_jay {position:absolute; width:41px; height:38px; margin: 142px 0 0 216px;}
+
+
+
+#Dist_3_1_vermillion {position:absolute; width:34px; height:72px; margin: 193px 0 0 -16px;}
+#Dist_3_2_vigo {position:absolute; width:42px; height:45px; margin: 261px 0 0 -10px;}
+#Dist_3_3_sullivan {position:absolute; width:42px; height:48px; margin: 301px 0 0 -14px;}
+#Dist_3_4_knox {position:absolute; width:63.5px; height:63px; margin: 345px 0 0 -23px;}
+#Dist_3_5_gibson {position:absolute; width:68.5px; height:48px; margin: 392px 0 0 -49px;}
+#Dist_3_6_posey {position:absolute; width:44px; height:60px; margin: 426px 0 0 -60px;}
+#Dist_3_7_fountain {position:absolute; width:37px; height:53px; margin: 169px 0 0 7px;}
+#Dist_3_8_parke {position:absolute; width:43px; height:48px; margin: 218px 0 0 8px;}
+#Dist_3_9_clay {position:absolute; width:34px; height:56px; margin: 261px 0 0 23px;}
+#Dist_3_10_greene {position:absolute; width:58px; height:45px; margin: 305px 0 0 23px;}
+#Dist_3_11_daviess {position:absolute; width:39.5px; height:55px; margin: 345px 0 0 21px;}
+#Dist_3_12_pike {position:absolute; width:49.5px; height:40px; margin: 389px 0 0 -1px;}
+#Dist_3_13_warrick {position:absolute; width:49px; height:44px; margin: 425px 0 0 0px;}
+#Dist_3_14_vanderburgh {position:absolute; width:30px; height:44px; margin: 435px 0 0 -24px;}
+#Dist_3_15_montgomery  {position:absolute; width:43px; height:47px; margin: 185px 0 0 39px;}
+#Dist_3_16_putnam {position:absolute; width:42px; height:54px; margin: 227px 0 0 46px;}
+#Dist_3_17_owen {position:absolute; width:43px; height:35px; margin: 277px 0 0 42.5px;}
+#Dist_3_18_martin {position:absolute; width:27px; height:56px; margin: 344px 0 0 54px;}
+#Dist_3_19_dubois {position:absolute; width:41px; height:43px; margin: 391px 0 0 40px;}
+#Dist_3_20_spencer {position:absolute; width:56px; height:56px; margin: 429px 0 0 18px;}
+#Dist_3_21_boone {position:absolute; width:47.5px; height:34px; margin: 190px 0 0 77.5px;}
+#Dist_3_22_hendricks {position:absolute; width:40px; height:46px; margin: 220px 0 0 78px;}
+#Dist_3_23_morgan {position:absolute; width:46px; height:37px; margin: 257px 0 0 76px;}
+#Dist_3_24_monroe {position:absolute; width:42px; height:48px; margin: 289px 0 0 76px;}
+#Dist_3_25_lawrence {position:absolute; width:48px; height:43px; margin: 332.5px 0 0 76.5px;}
+#Dist_3_26_orange {position:absolute; width:42px; height:40px; margin: 371px 0 0 77px;}
+#Dist_3_27_crawford {position:absolute; width:50px; height:42px; margin: 403px 0 0 77px;}
+#Dist_3_28_perry {position:absolute; width:44px; height:56px; margin: 423px 0 0 65px;}
+#Dist_3_29_johnson {position:absolute; width:36px; height:38px; margin: 256px 0 0 116px;}
+#Dist_3_30_brown {position:absolute; width:32px; height:42.5px; margin: 289px 0 0 109px;}
+#Dist_3_31_jackson {position:absolute; width:57px; height:46px; margin: 324px 0 0 113px;}
+#Dist_3_32_washington {position:absolute; width:52px; height:51px; margin: 358px 0 0 114px;}
+#Dist_3_33_harrison {position:absolute; width:43px; height:56px; margin: 404px 0 0 117px;}
+#Dist_3_34_hanock {position:absolute; width:39px; height:28px; margin: 219px 0 0 148px;}
+#Dist_3_35_shelby {position:absolute; width:36px; height:51px; margin: 243px 0 0 148px;}
+#Dist_3_36_bartholomew {position:absolute; width:43px; height:41px; margin: 290px 0 0 136px;}
+#Dist_3_37_henry {position:absolute; width:40px; height:37.5px; margin: 200px 0 0 183px;}
+#Dist_3_38_rush {position:absolute; width:36px; height:48px; margin: 233px 0 0 179px;}
+#Dist_3_39_decatur {position:absolute; width:42px; height:44px; margin: 277px 0 0 174px;}
+#Dist_3_40_jennings {position:absolute; width:40px; height:54px; margin: 308px 0 0 164px;}
+#Dist_3_41_ripley {position:absolute; width:40px; height:55px; margin: 293px 0 0 198px;}
+#Dist_3_42_jefferson {position:absolute; width:53px; height:43px; margin: 343px 0 0 174px;}
+#Dist_3_43_scott {position:absolute; width:35px; height:37px; margin: 354px 0 0 157px;}
+#Dist_3_44_clark {position:absolute; width:64px; height:46px; margin: 379px 0 0 146px;}
+#Dist_3_45_floyd {position:absolute; width:46px; height:33px; margin: 404px 0 0 142px;}
+#Dist_3_46_randolph {position:absolute; width:40px; height:38px; margin: 176px 0 0 218px;}
+#Dist_3_47_wayne {position:absolute; width:42px; height:43px; margin: 206px 0 0 216px;}
+#Dist_3_48_fayette {position:absolute; width:30px; height:37px; margin: 234px 0 0 210px;}
+#Dist_3_49_union {position:absolute; width:22px; height:31px; margin: 240px 0 0 236px;}
+#Dist_3_50_franklin {position:absolute; width:48px; height:36px; margin: 267px 0 0 211px;}
+#Dist_3_51_dearborn {position:absolute; width:32px; height:50px; margin: 293px 0 0 227px;}
+#Dist_3_52_ohio {position:absolute; width:56px; height:18px; margin: 327px 0 0 226px;}
+#Dist_3_53_switzerland {position:absolute; width:46px; height:36px; margin: 339px 0 0 219px;}
+
+
+
+
+
+
+
+
+

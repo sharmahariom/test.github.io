@@ -1,0 +1,88 @@
+﻿
+
+#welcome p  { 
+					position: absolute;					
+					font-family:"Copperplate Gothic Bold";
+					font-size:17px;
+					color:#FAFAFA;
+					margin:30px 0 0 120px;
+}
+
+#welcome p::first-letter { 
+    font-size: 125%;
+    }
+
+
+
+#welcome-text  {   
+					position: absolute;
+					margin:110px 0 0 40px;
+					width:602px;
+					height:386px;
+					-webkit-box-shadow:0 0 20px #B7E0EE; 
+					-moz-box-shadow: 0 0 20px #B7E0EE; 
+					box-shadow: 0px 0px 15px 5px rgba(255, 255, 190, .75);
+					border-radius: 6px;	
+}
+
+#slideShowImages {   position: absolute; }
+
+
+
+#coajudges09081 {width:150px; height:192px; }
+
+#image_group_11 {position: absolute; margin:0 0 0 0; }
+#image_group_12 {position: absolute; margin:0 0 0 149px; }
+#image_group_13 {position: absolute; margin:0 0 0 299px; }
+#image_group_14 {position: absolute; margin:0 0 0 449px; }
+#image_group_21 {position: absolute; margin:192px 0 0 0; }
+#image_group_22 {position: absolute; margin:192px 0 0 149px; }
+#image_group_23 {position: absolute; margin:192px 0 0 299px; }
+#image_group_24 {position: absolute; margin:192px 0 0 449px; }
+
+
+
+#welcome-text img {margin:0 0 0 0px;}
+
+#navi { float:right;
+		margin:150px 0 0 80px;
+		}
+		
+#navi button	{  	
+    				background: radial-gradient(#3D76BE, #06121F); 
+    				display:block;
+					box-shadow: 0px 0px 10px 5px rgba(255, 255, 190, .75);	    				
+					width:300px;
+					height:60px;
+					font-family:"Copperplate Gothic Bold";
+					font-size:17px;
+					color:#FAFAFA;
+					border-radius: 6px;
+					margin: 25px ;
+}
+
+
+#navi button::first-letter { 
+    font-size: 125%;
+    }
+
+
+#welcome-text button	{  	
+					position: absolute;
+    				background: radial-gradient(#3D76BE, #06121F); 
+					box-shadow: 0px 0px 10px 5px rgba(255, 255, 190, .75);    				
+					width:220px;
+					height:50px;
+					font-family:"Copperplate Gothic Bold";
+					font-size:14px;
+					color:#FAFAFA;
+					border-radius: 6px;
+					margin:410px 0 0 280px;
+	}
+
+#show-imagebutton::first-letter { 
+    font-size: 125%;
+    }
+
+
+

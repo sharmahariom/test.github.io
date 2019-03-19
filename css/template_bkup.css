@@ -1,0 +1,58 @@
+﻿
+/* Global */
+
+html 		{		}
+
+body 		{background:white;  }
+			
+		
+
+/* Container */
+
+#wrapper	{ width: 1026px; height:760px;	margin:0 auto; background-color: #000000;}
+
+#banner		{ background-color: #648FAD; width: 100%; height:87px; border-bottom: 8px #83B0C5 solid; background: linear-gradient(140deg, #648FAD, #254B7D); } /* Standard syntax (must be last) */  
+
+#logo 		{ margin:10px 0 0 10px; float:left; }
+
+#logo img 	{ float:left; z-index: 2; position: relative;}
+
+#banner-text p	{ font-size: 96px; color: #FFFFFF; font-family: "Edwardian Script ITC"; font-weight: bold; margin:0 0 0 140px; }
+				
+#torch-background { width:100%;
+					height:929px; 
+					background-image:url('../images/Torch.jpg');
+					background-repeat: no-repeat;
+					}			
+					
+#torch-foreground	{  
+					width:100%;
+					height:929px; 
+ 					background: -webkit-linear-gradient(140deg, #3D76BE, #000000); /* For Safari 5.1 to 6.0 */
+    				background: -o-linear-gradient(140deg, #3D76BE, #000000); /* For Opera 11.1 to 12.0 */
+    				background: -moz-linear-gradient(140deg, #3D76BE, #000000); /* For Firefox 3.6 to 15 */
+    				background: linear-gradient(90deg, #3D76BE, #06121F); /* Standard syntax (must be last) */  
+    				opacity: 0.95;
+    				}	
+		
+#content	{ width:100%; height:665px; }
+
+#back-button	{  margin:80px 0 0 550px; position:absolute; 	}
+		
+#back-button button	{  	
+ 				background: radial-gradient(closest-side at 50% 50%, #007279, #005A4D); 
+    			color:#FAFAFA;
+    			width:150px; height:50px;
+    			font-family:"Copperplate Gothic Bold"; font-variant:small-caps; font-size:25px; font-weight:bold;
+    			border-radius: 5px; border:thin;
+    			box-shadow: 0px 0px 15px 5px rgba(255, 255, 190, .75);    				
+    			}
+
+#back-button button::first-letter { 
+    font-size: 125%;
+    }
+
+#navi button::first-letter { 
+    font-size: 125%;
+    }
+

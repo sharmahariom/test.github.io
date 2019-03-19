@@ -1,0 +1,144 @@
+﻿
+#welcome {	position: absolute; width:500px; margin:-40px 0 0 300px; }
+
+#welcome p  { 
+					position: absolute;
+					color:#3A9BCB;
+					font-size: 45px;
+					font-family: "CopperplateGothic-Bold";
+					font-weight: bold;
+					text-shadow:  2px 2px 2px 2px rgba(155, 220, 255, 1);
+
+}
+
+#welcome p::first-letter { 
+    font-size: 125%;
+    }
+
+
+
+#welcome-text  {   
+					position: absolute;
+					margin:110px 0 0 40px;
+					width:602px;
+					height:386px;
+					-webkit-box-shadow:0 0 20px #B7E0EE; 
+					-moz-box-shadow: 0 0 20px #B7E0EE; 
+					box-shadow: 0px 0px 15px 5px rgba(255, 255, 190, .75);
+					border-radius: 6px;	
+}
+
+
+#frame {position: absolute; width:120px; height:110px;}
+
+#background {position: absolute; width:110px; height:100px; margin:5px 0 0 5px;  }
+
+#judge_pic {position: absolute; width:120px; height:100px; margin:5px 0 0 5px;  }
+#judge_pic_541 {position: absolute; width:110px; height:100px; margin:5px 0 0 5px;  }
+
+#judge_11  {position: absolute; width:120px; height:110px; margin:0 0 0 0;  }
+#judge_12  {position: absolute; width:120px; height:110px; margin:0 0 0 140px;  }
+#judge_13  {position: absolute; width:120px; height:110px; margin:0 0 0 280px;  }
+#judge_14  {position: absolute; width:110px; height:110px; margin:0 0 0 420px;  }
+#judge_15  {position: absolute; width:120px; height:110px; margin:0 0 0 560px;  }
+#judge_16  {position: absolute; width:120px; height:110px; margin:0 0 0 700px;  }
+
+#judge_21  {position: absolute; width:120px; height:110px; margin:120px 0 0 0;  }
+#judge_22  {position: absolute; width:120px; height:110px; margin:120px 0 0 140px;  }
+#judge_23  {position: absolute; width:120px; height:110px; margin:120px 0 0 280px;  }
+#judge_24  {position: absolute; width:110px; height:110px; margin:120px 0 0 420px;  }
+#judge_25  {position: absolute; width:120px; height:110px; margin:120px 0 0 560px;  }
+#judge_26  {position: absolute; width:120px; height:110px; margin:120px 0 0 700px;  }
+
+#judge_31  {position: absolute; width:120px; height:110px; margin:240px 0 0 0;  }
+#judge_32  {position: absolute; width:120px; height:110px; margin:240px 0 0 140px;  }
+#judge_33  {position: absolute; width:120px; height:110px; margin:240px 0 0 280px;  }
+#judge_34  {position: absolute; width:110px; height:110px; margin:240px 0 0 420px;  }
+#judge_35  {position: absolute; width:120px; height:110px; margin:240px 0 0 560px;  }
+#judge_36  {position: absolute; width:120px; height:110px; margin:240px 0 0 700px;  }
+
+#judge_41  {position: absolute; width:120px; height:110px; margin:360px 0 0 0;  }
+#judge_42  {position: absolute; width:120px; height:110px; margin:360px 0 0 140px;  }
+#judge_43  {position: absolute; width:120px; height:110px; margin:360px 0 0 280px;  }
+#judge_44  {position: absolute; width:110px; height:110px; margin:360px 0 0 420px;  }
+#judge_45  {position: absolute; width:120px; height:110px; margin:360px 0 0 560px;  }
+#judge_46  {position: absolute; width:120px; height:110px; margin:360px 0 0 700px;  }
+
+
+
+
+
+#welcome-text img {margin:0 0 0 0px;}
+
+#navi { 
+		position: absolute;
+		width:600px;
+		margin:80px 0 0 90px;
+		}
+		
+#navi button	{  	
+    				background: radial-gradient(#3D76BE, #06121F); 
+    				display:block;
+					box-shadow: 0px 0px 10px 5px rgba(255, 255, 190, .75);	    				
+					width:280px;
+					height:60px;
+					border-radius: 6px;
+}
+
+
+.judge_name { font-family:"Copperplate Gothic Bold";
+					font-size:16px;
+					color:#FAFAFA;
+				}
+
+
+.district_name { font-family:"Copperplate Gothic Bold";
+					font-size:11px;
+					color:#FAFAFA;
+				}
+
+
+#navi button::first-letter { 
+    font-size: 125%;
+    }
+
+#navi span::first-letter { 
+    font-size: 125%;
+    }
+
+
+
+#welcome-text button	{  	
+					position: absolute;
+    				background: radial-gradient(#3D76BE, #06121F); 
+					box-shadow: 0px 0px 10px 5px rgba(255, 255, 190, .75);    				
+					width:220px;
+					height:50px;
+					font-family:"Copperplate Gothic Bold";
+					font-size:14px;
+					color:#FAFAFA;
+					border-radius: 6px;
+					margin:410px 0 0 280px;
+	}
+
+#navi-button {position:absolute; margin:-100px 0 0 450px;}
+
+#fancy_exit {position:absolute; width:120px; height:90px; }
+
+#fancy_back {position:absolute; width:120px; height:90px; margin:0 0 0 -160px;}
+
+#fancy_next {position:absolute; width:120px; height:90px; margin:0 0 0 160px;
+
+    -webkit-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+    transform: rotate(180deg);
+    }
+
+#exit {position:absolute; margin:24px 0 0 20px; font-family:"Copperplate Gothic Bold"; font-size:30px; color:#FAFAFA; font-weight:bold; pointer-events: none;  }
+
+#exit::first-letter { font-size: 125%;}
+    
+
+

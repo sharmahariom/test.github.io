@@ -1,0 +1,180 @@
+﻿
+#welcome {	position: absolute; width:700px; margin:-55px 0 0 200px; }
+
+#welcome p  { 
+					position: absolute;
+					color:#3A9BCB;
+					font-size: 45px;
+					font-family: "CopperplateGothic-Bold";
+					font-weight: bold;
+					text-shadow:  2px 2px 2px 2px rgba(155, 220, 255, 1);
+
+}
+
+#welcome p::first-letter { font-size: 125%; }
+
+
+
+#guide-info	{  	
+					position: absolute;
+					margin:35px 0 0 170px;
+					width:900px;
+					height:20px;
+										
+
+	}
+
+#guide-info	p {  	position: absolute;
+					text-align:center;
+					font-family:"Copperplate Gothic Bold";
+					font-size:15px;
+					color:#FAFAFA;
+	}
+	
+#guide-info	p::first-letter {     font-size: 125%; }
+
+#button_11  {position: absolute; margin:0 0 0 340px; }
+
+
+#line111  {position: absolute; margin:45px 0 0 430px;  width:10px; height:15px;}
+#line112  {position: absolute; margin:60px 0 0 240px;  width:400px; height:10px;}
+#line113  {position: absolute; margin:70px 0 0 240px;  width:10px; height:15px;}
+#line114  {position: absolute; margin:70px 0 0 630px;  width:10px; height:15px;}
+
+
+
+#button_21  {position: absolute; margin:85px 0 0 140px; }
+#button_22  {position: absolute; margin:85px 0 0 540px; }
+
+#line123  {position: absolute; margin:135px 0 0 240px;  width:10px; height:15px;}
+#line124  {position: absolute; margin:135px 0 0 630px;  width:10px; height:15px;}
+#line122  {position: absolute; margin:150px 0 0 240px;  width:400px; height:10px;}
+#line121  {position: absolute; margin:160px 0 0 430px;  width:10px; height:15px;}
+
+
+
+#button_311  {position: absolute; 
+				margin:255px 0 0 100px; 
+	    				background: radial-gradient(#3D76BE, #06121F); 
+
+    				color: red; 
+					box-shadow: 0px 0px 10px 5px rgba(255, 255, 190, .75);	    				
+					width:820px;
+					height:45px;
+					border-radius: 6px;
+}
+
+#button_311 button	{  	
+    				border:none;
+   					background:none;
+					width:200px;
+					height:45px;
+}
+
+#button_311 button:first-letter { font-size: 125%; }
+
+#button_31  {position: absolute; margin:0 0 0 0; }
+#button_32  {position: absolute; margin:0 0 0 300px; }
+#button_33  {position: absolute; margin:0 0 0 630px; }
+
+#line141  {position: absolute; margin:220px 0 0 430px;  width:10px; height:50px;}
+#line142  {position: absolute; margin:240px 0 0 150px;  width:620px; height:10px;}
+#line143  {position: absolute; margin:240px 0 0 140px;  width:10px; height:30px;}
+#line144  {position: absolute; margin:240px 0 0 760px;  width:10px; height:30px;}
+
+#button_41  {position: absolute; margin:270px 0 0 50px; }
+#button_42  {position: absolute; margin:270px 0 0 330px; }
+#button_43  {position: absolute; margin:270px 0 0 670px; }
+
+
+#court_11 {position: absolute; margin:410px 0 0 5px;  width:1010px; height:170px; background:wheat; border-radius: 20px; opacity:0; }
+
+#court_21 {position: absolute; margin:410px 0 0 5px;  width:1010px; height:170px; background:wheat; border-radius: 20px; opacity:0;}
+
+#court_22 {position: absolute; margin:410px 0 0 5px;  width:1010px; height:170px; background:wheat; border-radius: 20px; opacity:0;}
+
+#court_31 {position: absolute; margin:410px 0 0 5px;  width:1010px; height:170px; background:wheat; border-radius: 20px; opacity:0;}
+
+#court_32 {position: absolute; margin:410px 0 0 5px;  width:1010px; height:170px; background:wheat; border-radius: 20px; opacity:0;}
+
+#court_33 {position: absolute; margin:410px 0 0 5px;  width:1010px; height:170px; background:wheat; border-radius: 20px; opacity:0;}
+
+#court_41 {position: absolute; margin:410px 0 0 5px;  width:1010px; height:170px; background:wheat; border-radius: 20px; opacity:0;}
+
+#court_42 {position: absolute; margin:410px 0 0 5px;  width:1010px; height:170px; background:wheat; border-radius: 20px; opacity:0;}
+
+#court_43 {position: absolute; margin:410px 0 0 5px;  width:1010px; height:170px; background:wheat; border-radius: 20px; opacity:0;}
+
+
+
+.court-info-name {position: absolute; margin: 0 0 0 0; width:1000px; height:20px; text-align:center; font-size:16px; 	font-family:"Copperplate Gothic Bold"; 
+				  text-shadow:  0px 0px 0px 1px rgba(100, 0, 0, 10); }
+
+.court-info-name:first-letter { font-size: 125%; }
+
+.court-info-content {position: absolute; margin: 25px 0 0 10px; width:1000px; height:115px; text-align:left; font-size:14px;}
+
+
+
+
+.line {  background:#83B0C5; }
+
+#welcome-text img {margin:0 0 0 0px;}
+
+#navi { 
+		position: absolute;
+		width:600px;
+		margin:80px 0 0 50px;
+		}
+		
+#navi button	{  	
+    				background: radial-gradient(#3D76BE, #06121F); 
+    				display:block;
+					box-shadow: 0px 0px 10px 5px rgba(255, 255, 190, .75);	    				
+					width:200px;
+					height:45px;
+					border-radius: 6px;
+}
+
+
+
+
+.judge_name { font-family:"Copperplate Gothic Bold";
+					font-size:16px;
+					color:#FAFAFA;
+				}
+
+
+.district_name { font-family:"Copperplate Gothic Bold";
+					font-size:11px;
+					color:#FAFAFA;
+				}
+
+
+#navi button::first-letter { font-size: 125%; }
+
+#navi span::first-letter { 
+    font-size: 125%;
+    }
+
+
+
+#welcome-text button	{  	
+					position: absolute;
+    				background: radial-gradient(#3D76BE, #06121F); 
+					box-shadow: 0px 0px 10px 5px rgba(255, 255, 190, .75);    				
+					width:220px;
+					height:50px;
+					font-family:"Copperplate Gothic Bold";
+					font-size:14px;
+					color:#FAFAFA;
+					border-radius: 6px;
+					margin:410px 0 0 280px;
+	}
+
+#show-imagebutton::first-letter { 
+    font-size: 125%;
+    }
+
+
+

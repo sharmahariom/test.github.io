@@ -1,0 +1,6 @@
+﻿svg {
+	width: 6em; height: 1.5em;
+	font: 900 500%/1.2 'Arial Black', sans-serif;
+}
+
+text { fill: url(#wood); }

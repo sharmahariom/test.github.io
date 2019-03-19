@@ -1,0 +1,25 @@
+﻿#banner-text p {z-index:20; position:absolute;}
+
+#content-text { 	position: absolute;
+					margin:-650px 0 0 50px;
+}
+
+
+#green-square {
+    background-color:#01CCFC;
+    height: 28px;
+    width: 28px;
+}
+
+
+#link { margin:20px 0 0 40px; font-size: 30px;
+					color: #FFFFFF;		
+					font-family: "Microsoft Sans Serif";
+					width:500px;
+}
+
+#container .container-item {
+   display: block;
+   margin: 55px 0;
+}
+

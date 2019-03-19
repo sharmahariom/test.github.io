@@ -1,0 +1,104 @@
+﻿
+#welcome p  { 
+					position: absolute;
+					color:#3A9BCB;
+					font-size: 45px;
+					font-family: "CopperplateGothic-Bold";
+					font-weight: bold;
+					text-shadow:  2px 2px 2px 2px rgba(155, 220, 255, 1);
+					
+
+					margin:10px 0 0 200px;
+}
+
+#welcome p::first-letter { 
+    font-size: 125%;
+    }
+
+
+#welcome-text p  { 
+ 					position: absolute;
+					width:588px;
+					font-size: 18px;
+					color: #FFFFFF;
+					font-family: "Microsoft Sans Serif";
+					margin:50px 0 0 20px;
+					
+}
+
+
+
+#welcome-text-p-link  { 
+ 					color:#02B9EB;			
+}
+
+
+#welcome P::first-letter{    font-size: 125%;
+}
+
+#banner-text p {z-index:20; position:absolute;}
+
+
+#container {position:absolute; margin:70px 0 0 15px; float:left; display:block;}
+
+#part1 {position:relative; margin:10px 0 0 0; float:left;}
+
+
+#part2 {position:relative; margin:60px 0 0 0;}
+
+#part2 .part2 {
+   display: block;
+   margin: 30px 0;
+}
+
+#part2-3 {position:relative; margin:-15px 0 0 0;}
+
+
+#part3 {position:relative; margin:-10px 0 0 0;}
+
+#part4 {position:relative; margin:-10px 0 0 0;}
+
+#part4 .part4 {
+   display: block;
+   margin: 35px 0;
+}
+
+
+#part5 {position:relative; margin:40px 0 0 0;}
+#part6 {position:relative; margin:0 0 0 0; color:#02B9EB; font-size: 16px;
+					font-family: "Microsoft Sans Serif";
+ }
+ 
+
+
+#content-text3  {position:relative; margin:20px 0 0 0; }
+
+#content-text4  {position:relative; margin:20px 0 0 0; }
+
+
+
+#white-square {
+    background-color:#ffffff;
+    height: 16px;
+    width: 16px;
+}
+
+#text1 {  font-size: 16px;
+					color: #FFFFFF;
+					font-family: "Microsoft Sans Serif";
+					width:600px;
+}
+
+
+
+
+#text { margin:0 0 0 20px; font-size:18px;
+					color: #FFFFFF;
+					font-family: "Microsoft Sans Serif";
+					width:600px;
+}
+
+
+
+
+

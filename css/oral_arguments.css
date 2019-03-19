@@ -1,0 +1,73 @@
+﻿
+#banner-text p {z-index:20; position:absolute;}
+
+
+#welcome-text img  {   
+					position: absolute;
+					margin:200px 0 0 -115px;
+					opacity: 0.2;
+					-webkit-box-shadow:0 0 20px #B7E0EE; 
+					-moz-box-shadow: 0 0 20px #B7E0EE; 
+					box-shadow: 0px 0px 15px 5px rgba(255, 255, 190, .75);
+					border-radius: 6px;	
+}
+
+#navi { 
+position:absolute;
+		float:right;
+		margin:-500px 0 0 680px;
+		}
+		
+#navi button	{  	
+    				background: radial-gradient(#3D76BE, #06121F); 
+    				display:block;
+					box-shadow: 0px 0px 10px 5px rgba(255, 255, 190, .75);	    				
+					width:300px;
+					height:60px;
+					font-family:"Copperplate Gothic Bold";
+					font-size:17px;
+					color:#FAFAFA;
+					border-radius: 6px;
+					margin: 25px ;
+}
+
+
+#navi button::first-letter { 
+    font-size: 125%;
+    }
+
+
+#welcome-text button	{  	
+					position: absolute;
+    				background: radial-gradient(#3D76BE, #06121F); 
+					box-shadow: 0px 0px 10px 5px rgba(255, 255, 190, .75);    				
+					width:220px;
+					height:50px;
+					font-family:"Copperplate Gothic Bold";
+					font-size:14px;
+					color:#FAFAFA;
+					border-radius: 6px;
+					margin:410px 0 0 280px;
+	}
+
+#show-imagebutton::first-letter { 
+    font-size: 125%;
+    }
+
+#welcome-text img:hover {
+opacity: 0.95;
+}
+
+
+
+#img { 
+	position:absolute;
+margin: 70px 0 0 40px;
+height:476px;
+width:635px;
+		}
+		
+#img img{ 
+height:476px;
+width:635px;
+		}		

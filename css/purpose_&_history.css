@@ -1,0 +1,56 @@
+﻿#welcome { 
+					position: absolute;	
+					color:#3A9BCB;
+					font-size: 45px;
+					font-family: "CopperplateGothic-Bold";
+					font-weight: bold;
+					text-shadow:  2px 2px 2px 2px rgba(155, 220, 255, 1);
+					display:inline;
+					margin:40px 0 0 50px;
+					}
+	
+
+
+#welcome p  { 
+					display:inline;
+					margin:8px;
+					}
+
+
+    
+
+
+#welcome-text-p  { 
+ 					position: absolute;
+					width:670px;
+					font-size: 18px;
+					color: #FFFFFF;
+					font-family: "Microsoft Sans Serif";
+					margin:150px 0 0 60px;	
+}
+
+#welcome-text-p-link  { 
+ 					color:#02B9EB;			
+}
+
+
+
+#navi { float:right;
+		margin:240px 40px 0 0;
+		}
+		
+#navi button	{  	
+    				background: radial-gradient(#3D76BE, #06121F); 
+    				display:block;
+					box-shadow: 0px 0px 10px 5px rgba(255, 255, 190, .75);	    				
+					width:220px;
+					height:60px;
+					font-family:"Copperplate Gothic Bold";
+					font-size:18px;
+					color:#FAFAFA;
+					border-radius: 6px;
+}
+
+#purpose p::first-letter  { 
+    font-size: 150%;
+    }
